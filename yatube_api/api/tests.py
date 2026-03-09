@@ -1,3 +1,2 @@
-from django.test import TestCase
-
+"""Модуль тестов api."""
 # Create your tests here.

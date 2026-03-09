@@ -1,3 +1,4 @@
+"""Настройки проекта Yatube API."""
 from datetime import timedelta
 from pathlib import Path
 

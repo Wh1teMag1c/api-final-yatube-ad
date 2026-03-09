@@ -1,3 +1,3 @@
-from django.contrib import admin
+"""Администрирование."""
 
 # Register your models here.

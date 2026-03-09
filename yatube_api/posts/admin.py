@@ -1,3 +1,3 @@
-from django.contrib import admin
+"""Модуль администрирования приложения posts."""
 
 # Register your models here.
